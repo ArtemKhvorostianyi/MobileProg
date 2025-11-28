@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Solar Theme Colors -->
+    <color name="solar_primary">#FF6B35</color>
+    <color name="solar_primary_dark">#FF4A1C</color>
+    <color name="solar_primary_light">#FF8C5A</color>
+    <color name="solar_secondary">#FFB84D</color>
+    <color name="solar_accent">#FFD93D</color>
+    <color name="solar_background">#FFF8F3</color>
+    <color name="solar_surface">#FFFFFF</color>
+    <color name="solar_card_background">#FFFFFF</color>
+    <color name="solar_text_primary">#2C2C2C</color>
+    <color name="solar_text_secondary">#666666</color>
+    <color name="solar_divider">#E0E0E0</color>
+    <color name="solar_success">#4CAF50</color>
+    <color name="solar_shadow">#1A000000</color>
+    
+    <!-- Legacy colors for compatibility -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

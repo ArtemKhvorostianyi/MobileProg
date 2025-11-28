@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Solar Profit Calculator</string>
+    <string name="power_hint">Enter power value</string>
+    <string name="sigma_hint">Enter sigma value</string>
+    <string name="cost_hint">Enter cost value</string>
+    <string name="calculate_button">Calculate</string>
+    <string name="calculate_again_button">Calculate Again</string>
+    <string name="calculation_results">Calculation Results</string>
+    <string name="income_result">Income Result</string>
+    <string name="fair_result">Fair Result</string>
+</resources>
