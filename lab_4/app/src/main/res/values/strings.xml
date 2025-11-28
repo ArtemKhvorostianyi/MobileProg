@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розрахунок струму КЗ</string>
+    <string name="title_short_circuit">Коротке замикання</string>
+    <string name="subtitle_enter_params">Введіть параметри для розрахунку</string>
+    <string name="input_params">Вхідні параметри</string>
+    <string name="hint_ucn">Ucn (кВ)</string>
+    <string name="hint_sk">Sk (МВА)</string>
+    <string name="hint_uk">Uk (%)</string>
+    <string name="hint_snom_t">Snom t (МВА)</string>
+    <string name="btn_calculate">Розрахувати</string>
+    <string name="results_title">Результати розрахунків</string>
+    <string name="error_empty_fields">Будь ласка, заповніть всі поля!</string>
+    <string name="error_invalid_data">Помилка: перевірте правильність введених даних!</string>
+</resources>

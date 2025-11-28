@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_color">#FF4081</color>
+    
+    <!-- Background Colors -->
+    <color name="background_gradient_start">#F5F7FA</color>
+    <color name="background_gradient_end">#E8ECF1</color>
+    
+    <!-- Card Colors -->
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    
+    <!-- Button Colors -->
+    <color name="button_ripple">#1E88E5</color>
+    
+    <!-- Error Colors -->
+    <color name="error_color">#F44336</color>
+</resources>
